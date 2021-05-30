@@ -3,3 +3,4 @@ WPU RESOLUSI VARIANZA
 - Create Forum diskusi
 - Konsistensi project planningku
 - Design Aplikasi Pembelajaran kolaboratif
+- Starting project
